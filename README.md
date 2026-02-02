@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Tiago Bresolin 😁
-Iniciando no mundo da programação/desenvolvedor Web Front End, estou me preparando para entrar no mercado de trabalho em 2026 ! 🚀 Gostaria de aumentar minha rede! Fique a vontade para entrar em contato! 
+Iniciando no mundo da programação/desenvolvedor Web Full Stack, estou me preparando para entrar no mercado de trabalho em 2026 ! 🚀 Gostaria de aumentar minha rede! Fique a vontade para entrar em contato! 
 
 ## Welcome to Tiago Bresolin's profile 😁
 Starting in the world of programming/Web Front End developer, I'm getting ready to enter the job market in 2026! 🚀 I would like to increase my network! Feel free to get in touch!
