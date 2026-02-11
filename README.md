@@ -16,7 +16,7 @@ I have completed a Freelancing course and am qualified to offer services for bui
   <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/inteligencia-artificial_653780?k=1770844724612&log-in=google">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://scontent.fpoa38-1.fna.fbcdn.net/v/t39.30808-6/630584088_25844125001917422_8341946441656728242_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF8_wii3lFwNyhzL5WCJNwBglX6-S9MBBWCVfr5L0wEFbnHG5Pvu4o75E06UO96QBFTkVrax-g6DSQx8WWWCRw9&_nc_ohc=dibYq603yWgQ7kNvwEUGFY4&_nc_oc=AdkUIXBVyRzI0qdSpM-3PrQ9-WsqPi-TxNOTcdxb4ZPfTUGeQbHHUUWmm474TvgUBNLwsgB867W9LgD0elOBkFFd&_nc_zt=23&_nc_ht=scontent.fpoa38-1.fna&_nc_gid=SmEBokz73IGwubMVEU-S5w&oh=00_AfuuadkFQd14SZYiY93VPkrt3ZCF85aMNITiHG3zEiD-2A&oe=6992DCB0">
 </div>
  
  <br>
