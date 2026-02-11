@@ -1,8 +1,10 @@
 ## Bem-vindo(a) ao perfil do Tiago Bresolin 😁
-Iniciando no mundo da programação/desenvolvedor Web Full Stack, estou me preparando para entrar no mercado de trabalho em 2026 ! 🚀 Gostaria de aumentar minha rede! Fique a vontade para entrar em contato! 
+Desenvolvedor Web Full Stack em formação | Freelancer
+Concluí curso de Freelancer e estou apto a oferecer serviços de criação e hospedagem de sites simples. Em preparação para atuação profissional no mercado em 2026. Vamos nos conectar! 🚀
 
 ## Welcome to Tiago Bresolin's profile 😁
-Starting in the world of programming/Web Front End developer, I'm getting ready to enter the job market in 2026! 🚀 I would like to increase my network! Feel free to get in touch!
+Full Stack Web Developer (in training) | Freelancer
+I have completed a Freelancing course and am qualified to offer services for building and hosting simple websites. Currently preparing for professional work in the job market in 2026. Let’s connect! 🚀
 
 ![Capa Linkedin](https://user-images.githubusercontent.com/96259803/185450632-e5364cb9-4dec-4a49-b34d-79b57968ecb5.jpg)
 
